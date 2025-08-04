@@ -123,7 +123,7 @@ const team = [
     image: "/placeholder.svg?height=200&width=200&text=Shailesh+Bothara",
   },
   {
-    name: "Mr. Nilesh Bothara",
+    name: "Mr. Milesh Bothara",
     title: "Director",
     qualification: "B.E. Civil, M.Tech",
     image: "/placeholder.svg?height=200&width=200&text=Nilesh+Bothara",
